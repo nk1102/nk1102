@@ -11,5 +11,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nk1102&repo=TravelDevise" />
 </a> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nk1102&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nk1102&show_icons=true&theme=default)
   
