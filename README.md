@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hey There<br>I am Nikunj <br>-> A Tech enthusiast<br>-> Current Learning Full Stack development<br>-> looking for collaboration on projects<br><br>That's All about me :)<br><br>
+### Hey There
+#### I am Nikunj
+
 
 
 # 💻 Tech Stack:
