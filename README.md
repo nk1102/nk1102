@@ -7,10 +7,10 @@
 - 🌱 I’m currently learning Node JS with express and MongoDB
 - 👯 I’m looking to collaborate on projects
 - 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nk1102&repo=TravelDevise" />
-</a>
+</a> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nk1102&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nk1102)](https://github.com/anuraghazra/github-readme-stats)
 
   
