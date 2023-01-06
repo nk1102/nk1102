@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hey There
-#### I am Nikunj
+#### I am Nikunj Khandelwal 
 
 
 
