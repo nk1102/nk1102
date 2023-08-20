@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Backend**
 
-- 🌱 I’m currently learning **Big Data Analytics using machine learning**
+- 🌱 I’m currently learning **.Net Core**
 
 - 👯 I’m looking to collaborate on **Backend using MERN Stack**
 
